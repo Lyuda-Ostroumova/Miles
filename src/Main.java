@@ -5,7 +5,7 @@ public class Main {
         int ticketPrice;
         int miles;
         int result;
-        ticketPrice = 2000052;
+        ticketPrice = ;
         miles = ticketPrice / 20;
         result = miles;
         System.out.println("Накоплено миль:" + result);
