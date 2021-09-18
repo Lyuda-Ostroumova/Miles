@@ -5,8 +5,7 @@ public class Main {
         int ticketPrice = 65_000;
         int miles = service.calculate(ticketPrice);
         System.out.println(miles);
-
-
+        
 
     }
 }
